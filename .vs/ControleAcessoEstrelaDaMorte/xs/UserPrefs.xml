@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7DB84D99-D2E2-4597-8408-AE8BE0966DBD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/ConroleAcesso/Program.cs">
+    <Files>
+      <File FileName="src/ConroleAcesso/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ControleAcessoEstrelaDaMorte" expanded="True">
+            <Node name="ConroleAcesso" expanded="True">
+              <Node name="Dao" expanded="True" />
+              <Node name="Entidades" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+              <Node name="Forms" expanded="True" />
+              <Node name="Servicos" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConroleAcesso PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
